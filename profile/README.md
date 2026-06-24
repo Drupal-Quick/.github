@@ -1,4 +1,4 @@
-drupal-quick is a Composer-based scaffolding tool for Drupal. Point it at a config.dq.yml file and it provisions a site, generates a themed front-end, and applies recipes — from a blank DDEV install to a deployable static site in a single command.
+Drupal-Quick is a Composer-based scaffolding tool for Drupal. Point it at a config.dq.yml file and it provisions a site, generates a themed front-end, and applies recipes — from a blank DDEV install to a deployable static site in a few commands. When you're ready, it can deploy to Netlify, Github Pages, or Render in a single drush command.
 
 The repose available are:
 
